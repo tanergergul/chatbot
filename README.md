@@ -2,7 +2,7 @@
 Chatbot project documentation
 
 <h1>Table of Contents</h1>
-<h2>Free Online Books</h2>
+<h3>Free Online Books</h3>
 <h2>Courses</h2>
 <h2>Videos and Lectures</h2>
 <h2>Papers</h2>
