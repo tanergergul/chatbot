@@ -3,10 +3,10 @@ Chatbot project documentation
 
 <h1>Table of Contents</h1>
 <h3>Free Online Books</h3>
-<h2>Courses</h2>
-<h2>Videos and Lectures</h2>
-<h2>Papers</h2>
-<h2>Tutorials</h2>
-<h2>Researchers</h2>
-<h2>WebSites</h2>
-<h2>Datasets</h2>
+<h3>Courses</h3>
+<h3>Videos and Lectures</h3>
+<h3>Papers</h3>
+<h3>Tutorials</h3>
+<h3>Researchers</h3>
+<h3>WebSites</h3>
+<h3>Datasets</h3>
